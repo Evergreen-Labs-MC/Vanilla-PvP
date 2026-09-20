@@ -7,7 +7,7 @@
 
   **Vanilla‑Plus PvP is a refined fork of the original Vanilla‑Plus texture pack by xSpinHDx.**
 
-[![This pack is Archived](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/archived.svg)](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/notices/archived.md) [![Download on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/modrinth.svg)](https://modrinth.com/resourcepack/vanilla-plus-pvp) [![View on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/github.svg)](https://github.com/Evergreen-Labs-MC/Vanilla-PvP/)
+![This pack is Archived](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/archived.svg) [![Download on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/modrinth.svg)](https://modrinth.com/resourcepack/vanilla-plus-pvp) [![View on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/github.svg)](https://github.com/Evergreen-Labs-MC/Vanilla-PvP/)
 
 
 </div>
