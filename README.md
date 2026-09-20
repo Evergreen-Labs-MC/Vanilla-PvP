@@ -1,4 +1,7 @@
+
 <div align="center">
+
+# Vanilla+ PvP
 
 <img src="pack.png" alt="Vanilla+ PvP Logo" width="256" />
 
