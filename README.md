@@ -14,6 +14,10 @@
 
 ---
 
+ Vanilla+ PvP has been archived and has been replaced by [PvP Tweaks+](https://github.com/Evergreen-Labs-MC/PvP-Tweaks)
+
+---
+
 Vanilla‑Plus PvP is a refined fork of the original Vanilla‑Plus texture pack by xSpinHDx, redesigned specifically for players who want a crisp, competitive edge in PvP without losing Minecraft’s iconic style.
 
 This pack keeps the charm and readability of the original Vanilla‑Plus aesthetic, but reworks key textures to enhance clarity, visibility, and combat performance. Every change is made with PvP flow in mind—cleaner visuals, faster recognition, and smoother gameplay.
